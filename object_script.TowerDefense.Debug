@@ -1,0 +1,17 @@
+INPUT(
+./debug\main.o
+./debug\mywidget.o
+./debug\towerposition.o
+./debug\tower.o
+./debug\waypoint.o
+./debug\fearfulenemy.o
+./debug\homedialog.o
+./debug\screeningdialog.o
+./debug\startwindow.o
+./debug\qrc_resources.o
+./debug\moc_mywidget.o
+./debug\moc_tower.o
+./debug\moc_homedialog.o
+./debug\moc_screeningdialog.o
+./debug\moc_startwindow.o
+);

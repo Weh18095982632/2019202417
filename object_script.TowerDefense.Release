@@ -1,0 +1,17 @@
+INPUT(
+./release\main.o
+./release\mywidget.o
+./release\towerposition.o
+./release\tower.o
+./release\waypoint.o
+./release\fearfulenemy.o
+./release\homedialog.o
+./release\screeningdialog.o
+./release\startwindow.o
+./release\qrc_resources.o
+./release\moc_mywidget.o
+./release\moc_tower.o
+./release\moc_homedialog.o
+./release\moc_screeningdialog.o
+./release\moc_startwindow.o
+);
